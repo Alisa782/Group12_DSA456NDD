@@ -11,5 +11,4 @@
 - 
 
 ## Lissette Huilca
-- Clean and standarize all date formats in olympic_games.csv and format competition date ranges.
-- Clean and standarize  the born column in the athletes file, handling missing or incomplete data consistently.
+- Write/call the function stubs
